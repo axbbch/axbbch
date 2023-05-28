@@ -15,7 +15,7 @@
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
 
   <!-- 技能 -->
-  <img src="/assets/images/icon.png" with=50px; height=50; />
+  <img src="/assets/images/icon.png"  />
 </div>
 
 #  🙋 Hello
