@@ -6,6 +6,9 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);三岁同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
+<!--51-->
+<script charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"></script>
+<script>LA.init({id:"K4uQ1xUZ05mkpbW7",ck:"K4uQ1xUZ05mkpbW7"})</script>
 
   <!-- 个人资料徽标 -->
   <div align="center">
