@@ -26,7 +26,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="150" src="https://home.sansui.vip/favicon.png"/>
 
 <p>&emsp;&emsp;大家好，我是三岁SANSUI。</p>
 <p>&emsp;&emsp;热爱数码、摄影、手机维修、html。</p>
