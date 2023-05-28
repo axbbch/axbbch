@@ -15,7 +15,7 @@
     <a href="https://sansui.vip"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
 
   <!-- 技能 -->
-  <img src="/assets/images/icon.png" />
+  <!--<img src="/assets/images/icon.png" />-->
 </div>
 
 #  🙋 Hello
