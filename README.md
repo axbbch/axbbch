@@ -29,7 +29,7 @@
 <img align="right" width="150" src="https://home.sansui.vip/favicon.png"/>
 
 <p>&emsp;&emsp;大家好，我是三岁SANSUI。</p>
-<p>&emsp;&emsp;热爱数码、摄影、手机维修、html。</p>
+<p>&emsp;&emsp;热爱数码、摄影、手机维修、前端开发。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的独立开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
