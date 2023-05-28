@@ -15,7 +15,7 @@
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
 
   <!-- 技能 -->
-  <img src="/assets/images/icon.png"  />
+  <img src="/assets/images/icon.png" />
 </div>
 
 #  🙋 Hello
@@ -26,7 +26,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
   
-<img align="right" width="250" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
+<img align="right" width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" />
 
 <p>&emsp;&emsp;大家好，我是三岁SANSUI。</p>
 <p>&emsp;&emsp;热爱数码、摄影、手机维修、html。</p>
