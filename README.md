@@ -6,12 +6,6 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);三岁同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
-<javascript>
-<!--51-->
-<script>
-   charset="UTF-8" id="LA_COLLECT" src="//sdk.51.la/js-sdk-pro.min.js"
-LA.init({id:"K4uQ1xUZ05mkpbW7",ck:"K4uQ1xUZ05mkpbW7"})
-</script>
 
   <!-- 个人资料徽标 -->
   <div align="center">
@@ -21,7 +15,7 @@ LA.init({id:"K4uQ1xUZ05mkpbW7",ck:"K4uQ1xUZ05mkpbW7"})
     <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
 
   <!-- 技能 -->
-  <img src="/assets/images/icon.png" />
+  <img src="/assets/images/icon.png" with=50px; height=50; />
 </div>
 
 #  🙋 Hello
