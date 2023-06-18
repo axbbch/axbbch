@@ -1,4 +1,4 @@
-# Hey there, I'm SANSUI! 👋
+# Hey there, I'm SanSui! 👋
 
 ## About Me
 I'm a Front-end development enthusiasts with a passion for Front-end. My goal is to leverage my skills and experience to build impactful and scalable solutions.
