@@ -10,12 +10,11 @@ I'm a [Your Profession/Field] with a passion for [Your Technology/Project Backgr
 Feel free to explore my repositories for more projects!
 
 ## 🚀 Skills
-- Programming languages: [List of programming languages you are proficient in]
-- Frameworks and libraries: [List of frameworks and libraries you have experience with]
-- Tools and technologies: [Any other relevant skills or technologies]
+- Programming languages: [HTML'CSS]
+- Tools and technologies: [Mobile phone repair]
 
 ## 📫 Get in Touch
 - Email: [sansui.vip@outlook.com]
-- LinkedIn: [Your LinkedIn profile link]
+- Telegram: [Your LinkedIn profile link]
 
 Let's connect and collaborate on exciting projects together!
