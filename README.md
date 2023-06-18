@@ -15,6 +15,6 @@ Feel free to explore my repositories for more projects!
 
 ## 📫 Get in Touch
 - Email: sansui.vip@outlook.com
-- Telegram: [Your LinkedIn profile link]
+- Telegram: https://t.me/AXB0804
 
 Let's connect and collaborate on exciting projects together!
