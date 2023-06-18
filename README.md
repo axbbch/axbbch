@@ -1,4 +1,4 @@
-# Hey there, I'm [Your Name/Username]! 👋
+# Hey there, I'm [SANSUI]! 👋
 
 ## About Me
 I'm a [Your Profession/Field] with a passion for [Your Technology/Project Background]. My goal is to leverage my skills and experience to build impactful and scalable solutions.
@@ -16,7 +16,7 @@ Feel free to explore my repositories for more projects!
 - Tools and technologies: [Any other relevant skills or technologies]
 
 ## 📫 Get in Touch
-- Email: [your@email.com]
+- Email: [sansui.vip@outlook.com]
 - LinkedIn: [Your LinkedIn profile link]
 
 Let's connect and collaborate on exciting projects together!
