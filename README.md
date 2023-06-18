@@ -1,10 +1,10 @@
-# Hey there, I'm [SANSUI]! 👋
+# Hey there, I'm SANSUI! 👋
 
 ## About Me
 I'm a [Your Profession/Field] with a passion for [Your Technology/Project Background]. My goal is to leverage my skills and experience to build impactful and scalable solutions.
 
 ## 🔭 Projects
-- [Project 1](https://github.com/yourusername/project1): Brief description of the project.
+- [BLOG](https://sansui.vip): This is my blog..
 - [Project 2](https://github.com/yourusername/project2): Brief description of the project.
 - [Project 3](https://github.com/yourusername/project3): Brief description of the project.
 
