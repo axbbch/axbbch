@@ -10,11 +10,11 @@ I'm a [Your Profession/Field] with a passion for [Your Technology/Project Backgr
 Feel free to explore my repositories for more projects!
 
 ## 🚀 Skills
-- Programming languages: [HTML'CSS]
-- Tools and technologies: [Mobile phone repair]
+- Programming languages: HTML'CSS
+- Tools and technologies: Mobile phone repair
 
 ## 📫 Get in Touch
-- Email: [sansui.vip@outlook.com]
+- Email: sansui.vip@outlook.com
 - Telegram: [Your LinkedIn profile link]
 
 Let's connect and collaborate on exciting projects together!
